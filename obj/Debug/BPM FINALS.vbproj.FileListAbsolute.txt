@@ -1,0 +1,21 @@
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM_FINALS.Form1.resources
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM_FINALS.Resources.resources
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM FINALS.vbproj.GenerateResource.cache
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM FINALS.vbproj.CoreCompileInputs.cache
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\BPM FINALS.exe.config
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\BPM FINALS.exe
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\BPM FINALS.pdb
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\BPM FINALS.xml
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM FINALS.exe
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM FINALS.xml
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM FINALS.pdb
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\Xamarin.Forms.Core.dll
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\Xamarin.Forms.Platform.dll
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\Xamarin.Forms.Core.pdb
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\Xamarin.Forms.Core.xml
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\C O D E\VB\BPM FINALS\BPM FINALS\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM FINALS.vbproj.CopyComplete
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM_FINALS.login.resources
+D:\C O D E\VB\BPM FINALS\BPM FINALS\obj\Debug\BPM FINALS.vbprojAssemblyReference.cache
